@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there! 👋
+
+I'm Rob. I have a passion for software development and UX Design. While I am trained as a Full Stack Software Developer, I tend to favor front end development and understanding how a user will interact with an application. I look at things visually and want to understand how things work, how they should look, and how they should interact with the user. I am a problem solver at heart and am mainly looking for ways to take my skills to the next level. Take a look at some of my past projects and let's connect!
+
+
+![robertncole1](https://user-images.githubusercontent.com/76854545/145284018-6260fc14-1258-4e38-b128-c1dce54ba1ba.jpg)
 
 <!--
 **robertncole1/robertncole1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
